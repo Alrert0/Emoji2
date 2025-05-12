@@ -9,7 +9,7 @@ function EmojiList() {
   const [loading, setLoading] = useState(true);
 
   useEffect(() => {
-    fetch('http://localhost:5000/api/emojis')
+    fetch('https://emoji2.onrender.com/api/emojis')
       .then((res) => res.json())
       .then((data) => {
         setEmojis(data);
