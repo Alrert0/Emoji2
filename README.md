@@ -26,7 +26,7 @@ Emoji Hub — это веб-приложение для просмотра эм�
 ### 1. Клонируй репозиторий
 
 ```bash
-git clone https://github.com/your-username/emoji-hub.git
+git clone https://github.com/Arlert0/emoji2.git
 cd Emoji2
 ````
 
