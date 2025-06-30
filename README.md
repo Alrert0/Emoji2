@@ -118,7 +118,6 @@ const data = await response.json();
 ```
 
 ---
-
 ## 🧩 Технологии
 
 * React 19 + Vite
